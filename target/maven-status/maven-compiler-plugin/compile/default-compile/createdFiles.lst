@@ -1,0 +1,8 @@
+com/example/App.class
+com/example/Utils/CSVReader.class
+com/example/Models/ArbreBinaire.class
+com/example/Models/ArbreBinaire$Noeud.class
+com/example/Controllers/LivreController.class
+com/example/Models/Livre.class
+com/example/Models/Inventaire.class
+com/example/Utils/StringUtils.class

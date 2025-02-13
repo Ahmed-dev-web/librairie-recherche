@@ -1,0 +1,49 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/Users/mac/Desktop/librairie/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/mac/Desktop/librairie/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'librairie 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'librairie 1.0-SNAPSHOT API'
+com.example.Utils
+com.example.Models
+com.example
+com.example.Controllers
+/Users/mac/Desktop/librairie/src/main/java = 1739471651126
+/Users/mac/Desktop/librairie/target/site/apidocs/tag-search-index.js = 1739483486300
+/Users/mac/Desktop/librairie/target/site/apidocs/overview-tree.html = 1739483486289
+/Users/mac/Desktop/librairie/target/site/apidocs/module-search-index.js = 1739483486299
+/Users/mac/Desktop/librairie/target/site/apidocs/index.html = 1739483486290
+/Users/mac/Desktop/librairie/target/site/apidocs/package-search-index.js = 1739483486299
+/Users/mac/Desktop/librairie/target/site/apidocs/link.svg = 1739483486314
+/Users/mac/Desktop/librairie/target/site/apidocs/index-all.html = 1739483486308
+/Users/mac/Desktop/librairie/target/site/apidocs/allpackages-index.html = 1739483486297
+/Users/mac/Desktop/librairie/target/site/apidocs/member-search-index.js = 1739483486299
+/Users/mac/Desktop/librairie/target/site/apidocs/copy.svg = 1739483486314
+/Users/mac/Desktop/librairie/target/site/apidocs/script.js = 1739483486314
+/Users/mac/Desktop/librairie/target/site/apidocs/stylesheet.css = 1739483486313
+/Users/mac/Desktop/librairie/target/site/apidocs/search-page.js = 1739483486316
+/Users/mac/Desktop/librairie/target/site/apidocs/overview-summary.html = 1739483486309
+/Users/mac/Desktop/librairie/target/site/apidocs/help-doc.html = 1739483486311
+/Users/mac/Desktop/librairie/target/site/apidocs/element-list = 1739483486258
+/Users/mac/Desktop/librairie/target/site/apidocs/search.html = 1739483486309
+/Users/mac/Desktop/librairie/target/site/apidocs/allclasses-index.html = 1739483486296
+/Users/mac/Desktop/librairie/target/site/apidocs/type-search-index.js = 1739483486299
+/Users/mac/Desktop/librairie/target/site/apidocs/search.js = 1739483486315
